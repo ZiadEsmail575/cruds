@@ -1,0 +1,11 @@
+
+::selection{
+    color: antiquewhite;
+    background-color: black;
+}
+textarea{
+    resize: none;
+}
+/* .table{
+    width: 0%!important;
+} */
